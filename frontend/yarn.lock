@@ -8941,7 +8941,7 @@ react-dev-utils@^11.0.3:
     prompts "2.4.0"
     react-error-overlay "^6.0.9"
     recursive-readdir "2.2.2"
-    shell-quote "1.7.2"
+    shell-quote "1.7.3"
     strip-ansi "6.0.0"
     text-table "0.2.0"
 
@@ -9348,7 +9348,7 @@ resolve-url-loader@^3.1.2:
     compose-function "3.0.3"
     convert-source-map "1.7.0"
     es6-iterator "2.0.3"
-    loader-utils "1.2.3"
+    loader-utils "2.0.3"
     postcss "7.0.21"
     rework "1.0.1"
     rework-visit "1.0.0"
@@ -9832,7 +9832,7 @@ sockjs-client@^1.5.0:
   integrity sha512-8Dt3BDi4FYNrCFGTL/HtwVzkARrENdwOUf1ZoW/9p3M8lZdFT35jVdrHza+qgxuG9H3/shR4cuX/X9umUrjP8Q==
   dependencies:
     debug "^3.2.6"
-    eventsource "^1.0.7"
+    eventsource "^1.1.1"
     faye-websocket "^0.11.3"
     inherits "^2.0.4"
     json3 "^3.3.3"
@@ -10526,7 +10526,7 @@ tsconfig-paths@^3.9.0:
   dependencies:
     "@types/json5" "^0.0.29"
     json5 "^1.0.1"
-    minimist "^1.2.0"
+    minimist "^1.2.6"
     strip-bom "^3.0.0"
 
 tslib@^1.8.1, tslib@^1.9.0:
